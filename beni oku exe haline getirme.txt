@@ -1,0 +1,1 @@
+C:\Users\Kilit\OneDrive\Masaüstü>C:\Users\Kilit\AppData\Local\Programs\Python\Python312\Scripts\pyinstaller.exe paket.py --onefile --add-data "C:\Users\Kilit\OneDrive\Masaüstü\yazbel.pdf;." --noconsole --icon C:\Users\Kilit\OneDrive\Masaüstü\pdf.ico
